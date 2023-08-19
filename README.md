@@ -1,2 +1,2 @@
-# Run_Length_Encoding_with_Images
+# Run Length Encoding with Images
 RLD python
