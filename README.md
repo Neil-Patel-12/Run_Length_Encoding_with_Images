@@ -7,8 +7,8 @@
 
 ## What is Run-Length_Encoding
 RLE is a form of lossless compression used in many industry applications, including imaging. It is intended to take advantage of datasets where elements (such as bytes or characters) are repeated several times in a row in certain types of data (such as pixel art in games). Black pixels often appear in long “runs” in some animation frames; instead of representing each black pixel individually, the color is recorded once, followed by the number of instances. <br>
-(Put the picture HERE) <br>
-**Program runs from Terminal**
+![What is RLE!](https://github.com/Neil-Patel-12/Run_Length_Encoding_with_Images/assets/108227267/874a02e0-0ea2-41e1-8a36-0c5d83d523d8) <br>
+**Program runs from Terminal** <br>
 (Upload the image from terminal !!) <br>
 
 
